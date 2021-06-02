@@ -28,7 +28,8 @@ settings.json
   }
 }
 ```
-will generate the following cs code:
+
+Will generate the following cs code:
 ```cs
 using System;
 using System.Collections.Generic;
