@@ -49,7 +49,7 @@ namespace Example.Generated
 	    Test = new Test(
 		PropA: fileContent.Test.PropA.ToString(),
 		PropB: fileContent.Test.PropB.ToString(),
-		PropC: fileContent.Test.PropC.ToString(),
+		PropC: fileContent.Test.PropC,
 		SubTest: new SubTest(
 		    PropAA: fileContent.Test.SubTest.PropAA.ToString()
 		)
