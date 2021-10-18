@@ -1,8 +1,7 @@
 # SourceGenerator.SettingsFileToStaticClass
 ## A source generator for creating a static class ( with a constructor ) for a settings.json file
 
-[![](https://vistr.dev/badge?repo=OfirValla.SourceGenerator.SettingsFileToStaticClass)]
-
+![](https://vistr.dev/badge?repo=OfirValla.SourceGenerator.SettingsFileToStaticClass)
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 The source generator searches for the following files:
